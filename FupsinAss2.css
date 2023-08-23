@@ -27,10 +27,10 @@ display: flex; margin-left: 500px;
     padding: 20px; background-color: tomato; border-radius: 10%; color: white;
 }
 .B2{
-    padding: 20px; background-color: white; border-radius: 10%;
+    padding: 20px; background-color: white; border-radius: 10%; margin-left: 10px;
 }
 .Last{
-    display: flex;
+    display: flex; margin-left: 15px;
 }
 .Eat{
     margin-left: 275px;
