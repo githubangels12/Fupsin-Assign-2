@@ -9,7 +9,8 @@
 }
 
 .Heading{
-    font-style: normal; font-size: x-large;
+    font-style: normal; 
+    font-size: x-large;
 }
 
 .Dad, .a, .b, .c, .d, .e, .f, 
@@ -21,7 +22,10 @@ border: 1px solid #eeee;
 }
 
 .land{
-display: flex; flex-direction: row; flex: 1fr;
+display: flex; 
+flex-direction: row; 
+flex: 1fr;
+
 }
 
 .green{
