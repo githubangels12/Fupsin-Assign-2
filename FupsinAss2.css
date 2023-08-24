@@ -1,26 +1,27 @@
 .Alpha{
     display: flex; 
     margin-left: 15px;
-    font-size: x-large;
+    font-size: large;
 }
 .Ab{
-    height: 70px; 
+    height: 60px; 
     width: 40px; 
-    padding-top: 25px;
+    padding-top: 15px;
 }
 .topicons{
 display: flex; 
-margin-left: 400px;
+margin-left: 400px; font-size: small;
+
 }
 .topicons1{
-    margin-left: 50px; padding-top: 30px;
+    margin-left: 50px; padding-top: 20px; 
 }
 .top{
     display: flex; 
     margin-left: auto;
 }
 .topicons2{
-    margin-left: 50px; background-color: tomato; color: white; border-radius: 7px; padding-top: 25px;
+    margin-left: 50px; margin-bottom: 40px;   background-color: tomato; color: white; border-radius: 7px; padding-top: 20px;
     }
 .Body{
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
@@ -28,17 +29,17 @@ margin-left: 400px;
 }
 .Body2{
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    font-size: x-large;
+    font-size: larger;
 }
  
 .B1{
-    padding: 15px; 
+    padding: 20px; 
     background-color: tomato; 
     border-radius: 10%; 
     color: white;
 }
 .B2{
-    padding: 15px; 
+    padding: 20px; 
     background-color: white; 
     border-radius: 10%; 
     margin-left: 10px;
@@ -47,8 +48,8 @@ margin-left: 400px;
     display: flex; 
     margin-left: 15px;
 }
-.Eat{
-    margin-left: 300px;
+.eat{
+    size: 10px; margin-left: 645px;
 }
 
 .Background{
